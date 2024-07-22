@@ -1,0 +1,9 @@
+[
+{
+  "title": "Quantum Testnet",
+  "url": "https://explorer.quantum-net.io/",
+  "group": "Testnets",
+  "icon": "https://raw.githubusercontent.com/quantum-rollup/frontend-configs/main/configs/network-icons/quantum.png",
+  "isActive": true
+}
+]

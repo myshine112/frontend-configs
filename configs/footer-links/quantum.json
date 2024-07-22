@@ -1,0 +1,98 @@
+[{
+		"title": "Quantum Network",
+		"links": [{
+				"text": "Home",
+				"url": "https://quantum-net.io/"
+			},
+			{
+				"text": "Governance",
+				"url": "https://docs.quantum-net.io/"
+			},
+			{
+				"text": "Bridge",
+				"url": "https://docs.quantum-net.io/"
+			},
+			{
+				"text": "Ecosystem",
+				"url": "https://docs.quantum-net.io/"
+			},
+			{
+				"text": "Help center",
+				"url": "https://docs.quantum-net.io/"
+			},
+			{
+				"text": "Feature request",
+				"url": "https://docs.quantum-net.io/"
+			}
+		]
+	},
+	{
+		"title": "Developers",
+		"links": [{
+				"text": "Documentation",
+				"url": "https://docs.quantum-net.io/"
+			},
+			{
+				"text": "Status",
+				"url": "#"
+			},
+			{
+				"text": "Bug bounty",
+				"url": "#"
+			},
+			{
+				"text": "Dev blog",
+				"url": "#"
+			},
+			{
+				"text": "Marketing support",
+				"url": "#"
+			},
+			{
+				"text": "Get in touch",
+				"url": "#"
+			},
+			{
+				"text": "GitHub",
+				"url": "#"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [{
+				"text": "Telegram",
+				"url": "https://t.me/QuantumNetPortal"
+			},
+			{
+				"text": "Twitter",
+				"url": "https://x.com/Quantum_L2"
+			},
+			{
+				"text": "Medium",
+				"url": "https://medium.com/@quantumnetwork"
+			}
+		]
+	},
+  {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "MetaSuites",
+        "url": "https://blocksec.com/metasuites"
+      },
+      {
+        "text": "Sourcify",
+        "url": "https://sourcify.dev/"
+      },
+      {
+        "text": "DRPC",
+        "url": "https://drpc.org?ref=559183"
+      },
+      {
+        "text": "BlockSec",
+        "url": "https://blocksec.com/"
+      }
+    ]
+  }
+]
